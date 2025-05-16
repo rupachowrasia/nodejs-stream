@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-stream",
+  "version": "1.0.0",
+  "description": "> In Node.js, the events module provides a way to implement event-driven architecture, where different parts of your application can communicate via emitting and listening to events.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupachowrasia/nodejs-stream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupachowrasia/nodejs-stream/issues"
+  },
+  "homepage": "https://github.com/rupachowrasia/nodejs-stream#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-status-monitor": "^1.3.4"
+  }
+}
